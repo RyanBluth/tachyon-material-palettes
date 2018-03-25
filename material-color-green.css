@@ -3,11 +3,11 @@
 }
 
 .bg-mt-green-50 {
-    color: #e8f5e9;
+    background-background-color: #e8f5e9;
 }
 
 .hover-bg-mt-green-50:hover {
-    color: #e8f5e9;
+    background-background-color: #e8f5e9;
 }
 
 .hover-mt-green-50:hover {
@@ -19,11 +19,11 @@
 }
 
 .bg-mt-green-100 {
-    color: #c8e6c9;
+    background-background-color: #c8e6c9;
 }
 
 .hover-bg-mt-green-100:hover {
-    color: #c8e6c9;
+    background-background-color: #c8e6c9;
 }
 
 .hover-mt-green-100:hover {
@@ -35,11 +35,11 @@
 }
 
 .bg-mt-green-200 {
-    color: #a5d6a7;
+    background-background-color: #a5d6a7;
 }
 
 .hover-bg-mt-green-200:hover {
-    color: #a5d6a7;
+    background-background-color: #a5d6a7;
 }
 
 .hover-mt-green-200:hover {
@@ -51,11 +51,11 @@
 }
 
 .bg-mt-green-300 {
-    color: #81c784;
+    background-background-color: #81c784;
 }
 
 .hover-bg-mt-green-300:hover {
-    color: #81c784;
+    background-background-color: #81c784;
 }
 
 .hover-mt-green-300:hover {
@@ -67,11 +67,11 @@
 }
 
 .bg-mt-green-400 {
-    color: #66bb6a;
+    background-background-color: #66bb6a;
 }
 
 .hover-bg-mt-green-400:hover {
-    color: #66bb6a;
+    background-background-color: #66bb6a;
 }
 
 .hover-mt-green-400:hover {
@@ -83,11 +83,11 @@
 }
 
 .bg-mt-green-500 {
-    color: #4caf50;
+    background-background-color: #4caf50;
 }
 
 .hover-bg-mt-green-500:hover {
-    color: #4caf50;
+    background-background-color: #4caf50;
 }
 
 .hover-mt-green-500:hover {
@@ -99,11 +99,11 @@
 }
 
 .bg-mt-green-600 {
-    color: #43a047;
+    background-background-color: #43a047;
 }
 
 .hover-bg-mt-green-600:hover {
-    color: #43a047;
+    background-background-color: #43a047;
 }
 
 .hover-mt-green-600:hover {
@@ -115,11 +115,11 @@
 }
 
 .bg-mt-green-700 {
-    color: #388e3c;
+    background-background-color: #388e3c;
 }
 
 .hover-bg-mt-green-700:hover {
-    color: #388e3c;
+    background-background-color: #388e3c;
 }
 
 .hover-mt-green-700:hover {
@@ -131,11 +131,11 @@
 }
 
 .bg-mt-green-800 {
-    color: #2e7d32;
+    background-background-color: #2e7d32;
 }
 
 .hover-bg-mt-green-800:hover {
-    color: #2e7d32;
+    background-background-color: #2e7d32;
 }
 
 .hover-mt-green-800:hover {
@@ -147,11 +147,11 @@
 }
 
 .bg-mt-green-900 {
-    color: #1b5e20;
+    background-background-color: #1b5e20;
 }
 
 .hover-bg-mt-green-900:hover {
-    color: #1b5e20;
+    background-background-color: #1b5e20;
 }
 
 .hover-mt-green-900:hover {
@@ -163,11 +163,11 @@
 }
 
 .bg-mt-green-a100 {
-    color: #b9f6ca;
+    background-background-color: #b9f6ca;
 }
 
 .hover-bg-mt-green-a100:hover {
-    color: #b9f6ca;
+    background-background-color: #b9f6ca;
 }
 
 .hover-mt-green-a100:hover {
@@ -179,11 +179,11 @@
 }
 
 .bg-mt-green-a200 {
-    color: #69f0ae;
+    background-background-color: #69f0ae;
 }
 
 .hover-bg-mt-green-a200:hover {
-    color: #69f0ae;
+    background-background-color: #69f0ae;
 }
 
 .hover-mt-green-a200:hover {
@@ -195,11 +195,11 @@
 }
 
 .bg-mt-green-a400 {
-    color: #00e676;
+    background-background-color: #00e676;
 }
 
 .hover-bg-mt-green-a400:hover {
-    color: #00e676;
+    background-background-color: #00e676;
 }
 
 .hover-mt-green-a400:hover {
@@ -211,11 +211,11 @@
 }
 
 .bg-mt-green-a700 {
-    color: #00c853;
+    background-background-color: #00c853;
 }
 
 .hover-bg-mt-green-a700:hover {
-    color: #00c853;
+    background-background-color: #00c853;
 }
 
 .hover-mt-green-a700:hover {
@@ -227,11 +227,11 @@
 }
 
 .bg-mt-light-green-50 {
-    color: #f1f8e9;
+    background-background-color: #f1f8e9;
 }
 
 .hover-bg-mt-light-green-50:hover {
-    color: #f1f8e9;
+    background-background-color: #f1f8e9;
 }
 
 .hover-mt-light-green-50:hover {
@@ -243,11 +243,11 @@
 }
 
 .bg-mt-light-green-100 {
-    color: #dcedc8;
+    background-background-color: #dcedc8;
 }
 
 .hover-bg-mt-light-green-100:hover {
-    color: #dcedc8;
+    background-background-color: #dcedc8;
 }
 
 .hover-mt-light-green-100:hover {
@@ -259,11 +259,11 @@
 }
 
 .bg-mt-light-green-200 {
-    color: #c5e1a5;
+    background-background-color: #c5e1a5;
 }
 
 .hover-bg-mt-light-green-200:hover {
-    color: #c5e1a5;
+    background-background-color: #c5e1a5;
 }
 
 .hover-mt-light-green-200:hover {
@@ -275,11 +275,11 @@
 }
 
 .bg-mt-light-green-300 {
-    color: #aed581;
+    background-background-color: #aed581;
 }
 
 .hover-bg-mt-light-green-300:hover {
-    color: #aed581;
+    background-background-color: #aed581;
 }
 
 .hover-mt-light-green-300:hover {
@@ -291,11 +291,11 @@
 }
 
 .bg-mt-light-green-400 {
-    color: #9ccc65;
+    background-background-color: #9ccc65;
 }
 
 .hover-bg-mt-light-green-400:hover {
-    color: #9ccc65;
+    background-background-color: #9ccc65;
 }
 
 .hover-mt-light-green-400:hover {
@@ -307,11 +307,11 @@
 }
 
 .bg-mt-light-green-500 {
-    color: #8bc34a;
+    background-background-color: #8bc34a;
 }
 
 .hover-bg-mt-light-green-500:hover {
-    color: #8bc34a;
+    background-background-color: #8bc34a;
 }
 
 .hover-mt-light-green-500:hover {
@@ -323,11 +323,11 @@
 }
 
 .bg-mt-light-green-600 {
-    color: #7cb342;
+    background-background-color: #7cb342;
 }
 
 .hover-bg-mt-light-green-600:hover {
-    color: #7cb342;
+    background-background-color: #7cb342;
 }
 
 .hover-mt-light-green-600:hover {
@@ -339,11 +339,11 @@
 }
 
 .bg-mt-light-green-700 {
-    color: #689f38;
+    background-background-color: #689f38;
 }
 
 .hover-bg-mt-light-green-700:hover {
-    color: #689f38;
+    background-background-color: #689f38;
 }
 
 .hover-mt-light-green-700:hover {
@@ -355,11 +355,11 @@
 }
 
 .bg-mt-light-green-800 {
-    color: #558b2f;
+    background-background-color: #558b2f;
 }
 
 .hover-bg-mt-light-green-800:hover {
-    color: #558b2f;
+    background-color: #558b2f;
 }
 
 .hover-mt-light-green-800:hover {
@@ -371,11 +371,11 @@
 }
 
 .bg-mt-light-green-900 {
-    color: #33691e;
+    background-color: #33691e;
 }
 
 .hover-bg-mt-light-green-900:hover {
-    color: #33691e;
+    background-color: #33691e;
 }
 
 .hover-mt-light-green-900:hover {
@@ -387,11 +387,11 @@
 }
 
 .bg-mt-light-green-a100 {
-    color: #ccff90;
+    background-color: #ccff90;
 }
 
 .hover-bg-mt-light-green-a100:hover {
-    color: #ccff90;
+    background-color: #ccff90;
 }
 
 .hover-mt-light-green-a100:hover {
@@ -403,11 +403,11 @@
 }
 
 .bg-mt-light-green-a200 {
-    color: #b2ff59;
+    background-color: #b2ff59;
 }
 
 .hover-bg-mt-light-green-a200:hover {
-    color: #b2ff59;
+    background-color: #b2ff59;
 }
 
 .hover-mt-light-green-a200:hover {
@@ -419,11 +419,11 @@
 }
 
 .bg-mt-light-green-a400 {
-    color: #76ff03;
+    background-color: #76ff03;
 }
 
 .hover-bg-mt-light-green-a400:hover {
-    color: #76ff03;
+    background-color: #76ff03;
 }
 
 .hover-mt-light-green-a400:hover {
@@ -435,11 +435,11 @@
 }
 
 .bg-mt-light-green-a700 {
-    color: #64dd17;
+    background-color: #64dd17;
 }
 
 .hover-bg-mt-light-green-a700:hover {
-    color: #64dd17;
+    background-color: #64dd17;
 }
 
 .hover-mt-light-green-a700:hover {
