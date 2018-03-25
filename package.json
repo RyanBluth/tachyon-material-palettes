@@ -1,0 +1,20 @@
+{
+  "name": "tachyon-material-palettes",
+  "version": "1.0.0",
+  "description": "Material Palettes For Tachyon CSS",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanBluth/tachyon-material-palettes.git"
+  },
+  "keywords": [
+    "Tachyon",
+    "Material",
+    "CSS"
+  ],
+  "author": "Ryan Bluth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RyanBluth/tachyon-material-palettes/issues"
+  },
+  "homepage": "https://github.com/RyanBluth/tachyon-material-palettes#readme"
+}
